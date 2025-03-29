@@ -1,6 +1,6 @@
 # Assignment-
 git clone 
-https://github.com/your-username/
-your-repository.git
+https://github.com/Adilsonpaulo10/
+Assignment.git
 
-cd your-repository
+cd Assignment 
